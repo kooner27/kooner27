@@ -1,11 +1,11 @@
 ### Hi there! 👋 I'm Prabh Kooner
 
-💻 **Computer Engineering Student** | 🎓 University of Alberta ('25)  
+💻 **Computer Engineering Graduate** | 🎓 University of Alberta ('25)  
 
 ---
 
 ### 📌 About Me
-- 🎓 **Finishing up my Computer Engineering degree** at the **University of Alberta** (Graduating June 2025).  
+- 🎓 **Completed my Computer Engineering degree** at the **University of Alberta**  
 - 💼 **Looking for opportunities** in systems programming, OS development, and full-stack web dev.  
 - 🛠️ I love working with **C/C++ and Rust**, especially for **low-level systems programming**.  
 - ⌨️ Enthusiastic about **developer tools**, particularly **Neovim, Ghostty, and improving workflows**.  
