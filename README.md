@@ -15,7 +15,7 @@
 ---
 
 ### 📫 Connect with Me:
-- 📧 **Email**: prabhnoo@ualberta.ca  
+- 📧 **Email**: prabhkooner2727@gmail.com  
 - 📝 **Projects & Contributions**: Check out my repositories! Especially my neovim config.
 
 ---
